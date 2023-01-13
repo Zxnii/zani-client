@@ -1,0 +1,26 @@
+# ide
+/.idea
+
+# script generated
+/bin
+/jars
+/run
+/setup_cache.json
+
+# gradle
+/build
+/.gradle
+
+# minecraft source
+/src/main/java/net/minecraft
+/src/main/java/net/optifine
+/src/main/java/net/minecraftforge
+/src/main/java/javax/vecmath
+
+# minecraft assets
+/src/main/resources/assets/minecraft
+/src/main/resources/log4j2.xml
+/src/main/resources/pack.png
+
+# script dependencies
+/scripts/**/node_modules

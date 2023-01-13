@@ -1,0 +1,11 @@
+{
+  "author": "zani",
+  "version": "1.0.0",
+  "main": "index.js",
+  "name": "setup",
+  "description": "Setup script for zani client",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  }
+}
